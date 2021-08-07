@@ -1,0 +1,17 @@
+.heading{
+    width: 80%;
+    font-size:22px;
+    
+}
+.name_of_objects{
+ color: orangered;
+}
+#result_object_name{
+ color: cyan;
+}
+#result_object_accuracy{
+    color: aqua;
+}
+body{
+    background-color: coral;
+}
